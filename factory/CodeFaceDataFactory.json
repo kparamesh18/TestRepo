@@ -1,0 +1,9 @@
+{
+	"name": "CodeFaceDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18b7f706-91a9-4daf-b0e9-bc9e089aba2a",
+		"tenantId": "56b557ad-fd17-4909-b00b-8e72fbd0955f"
+	}
+}
